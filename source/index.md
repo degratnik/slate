@@ -2,6 +2,7 @@
 title: API Reference
 
 language_tabs:
+  - js
   - shell
   - ruby
   - python
